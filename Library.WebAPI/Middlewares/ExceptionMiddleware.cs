@@ -5,7 +5,7 @@ using Library.WebAPI.Models;
 
 namespace Library.WebAPI.Middlewares
 {
-    public class ExceptionMiddleware(RequestDelegate next)
+    public class ExceptionMiddleware(RequestDelegate next,ILogger<ExceptionMiddleware> _logger)
     {
         public async Task InvokeAsync(HttpContext context)
         {
@@ -15,6 +15,8 @@ namespace Library.WebAPI.Middlewares
 			}
 			catch (Exception ex)
 			{
+                _logger.LogError(ex, "Bir hata oluştu : {Message}", ex.Message);
+
 				context.Response.ContentType = "application/json";
 
                 var errorCode = ErrorCodes.Exception;

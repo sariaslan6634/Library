@@ -4,8 +4,14 @@ using Library.Infrastructure;
 using Library.Infrastructure.Persistence.Context;
 using Library.WebAPI.Middlewares;
 using Microsoft.EntityFrameworkCore;
+using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Host.UseSerilog((context,config) =>
+{
+    config.WriteTo.Console().WriteTo.File("logs/log-.txt", rollingInterval: RollingInterval.Day);
+});
 
 // Add services to the container.
 

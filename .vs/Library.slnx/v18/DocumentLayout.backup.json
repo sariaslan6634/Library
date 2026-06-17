@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ibrah\\source\\repos\\Library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7B24D9C-C7C1-4B5A-8E97-78E7F43DD935}|Library.Application.Tests\\Library.Application.Tests.csproj|c:\\users\\ibrah\\source\\repos\\library\\library.application.tests\\features\\books\\borrowbookcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7B24D9C-C7C1-4B5A-8E97-78E7F43DD935}|Library.Application.Tests\\Library.Application.Tests.csproj|solutionrelative:library.application.tests\\features\\books\\borrowbookcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6A2B330-EE04-F73C-697D-3BF1FA197D0B}|Library.WebAPI\\Library.WebAPI.csproj|c:\\users\\ibrah\\source\\repos\\library\\library.webapi\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A2B330-EE04-F73C-697D-3BF1FA197D0B}|Library.WebAPI\\Library.WebAPI.csproj|solutionrelative:library.webapi\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BorrowBookCommandHandlerTests.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\Library\\Library.Application.Tests\\Features\\Books\\BorrowBookCommandHandlerTests.cs",
-              "RelativeDocumentMoniker": "Library.Application.Tests\\Features\\Books\\BorrowBookCommandHandlerTests.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\Library\\Library.Application.Tests\\Features\\Books\\BorrowBookCommandHandlerTests.cs",
-              "RelativeToolTip": "Library.Application.Tests\\Features\\Books\\BorrowBookCommandHandlerTests.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAjAAAAAAAAAA==",
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\Library\\Library.WebAPI\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Library.WebAPI\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\Library\\Library.WebAPI\\Middlewares\\ExceptionMiddleware.cs*",
+              "RelativeToolTip": "Library.WebAPI\\Middlewares\\ExceptionMiddleware.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T13:43:59.148Z",
+              "WhenOpened": "2026-06-17T14:26:58.369Z",
               "EditorCaption": ""
             }
           ]
