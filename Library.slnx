@@ -5,4 +5,7 @@
     <Project Path="Library.Infrastructure/Library.Infrastructure.csproj" />
     <Project Path="Library.WebAPI/Library.WebAPI.csproj" />
   </Folder>
+  <Folder Name="/Test/">
+    <Project Path="Library.Application.Tests/Library.Application.Tests.csproj" Id="e7b24d9c-c7c1-4b5a-8e97-78e7f43dd935" />
+  </Folder>
 </Solution>

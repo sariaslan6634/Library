@@ -1,10 +1,3 @@
-C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\Library.WebAPI.csproj.AssemblyReference.cache
-C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
-C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\Library.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\Library.WebAPI.AssemblyInfoInputs.cache
-C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\Library.WebAPI.AssemblyInfo.cs
-C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\Library.WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\Library.WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ibrah\source\repos\Library\Library.WebAPI\bin\Debug\net10.0\appsettings.Development.json
 C:\Users\ibrah\source\repos\Library\Library.WebAPI\bin\Debug\net10.0\appsettings.json
 C:\Users\ibrah\source\repos\Library\Library.WebAPI\bin\Debug\net10.0\Library.WebAPI.staticwebassets.endpoints.json
@@ -13,6 +6,7 @@ C:\Users\ibrah\source\repos\Library\Library.WebAPI\bin\Debug\net10.0\Library.Web
 C:\Users\ibrah\source\repos\Library\Library.WebAPI\bin\Debug\net10.0\Library.WebAPI.runtimeconfig.json
 C:\Users\ibrah\source\repos\Library\Library.WebAPI\bin\Debug\net10.0\Library.WebAPI.dll
 C:\Users\ibrah\source\repos\Library\Library.WebAPI\bin\Debug\net10.0\Library.WebAPI.pdb
+C:\Users\ibrah\source\repos\Library\Library.WebAPI\bin\Debug\net10.0\AutoMapper.dll
 C:\Users\ibrah\source\repos\Library\Library.WebAPI\bin\Debug\net10.0\Azure.Core.dll
 C:\Users\ibrah\source\repos\Library\Library.WebAPI\bin\Debug\net10.0\Azure.Identity.dll
 C:\Users\ibrah\source\repos\Library\Library.WebAPI\bin\Debug\net10.0\FluentValidation.dll
@@ -153,6 +147,15 @@ C:\Users\ibrah\source\repos\Library\Library.WebAPI\bin\Debug\net10.0\Library.Inf
 C:\Users\ibrah\source\repos\Library\Library.WebAPI\bin\Debug\net10.0\Library.Infrastructure.pdb
 C:\Users\ibrah\source\repos\Library\Library.WebAPI\bin\Debug\net10.0\Library.Application.pdb
 C:\Users\ibrah\source\repos\Library\Library.WebAPI\bin\Debug\net10.0\Library.Domain.pdb
+C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\Library.WebAPI.csproj.AssemblyReference.cache
+C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\Library.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\Library.WebAPI.AssemblyInfoInputs.cache
+C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\Library.WebAPI.AssemblyInfo.cs
+C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\Library.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\Library.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\Library.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\Library.WebAPI.sourcelink.json
 C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -169,5 +172,3 @@ C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\refint\Libr
 C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\Library.WebAPI.pdb
 C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\Library.WebAPI.genruntimeconfig.cache
 C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\ref\Library.WebAPI.dll
-C:\Users\ibrah\source\repos\Library\Library.WebAPI\bin\Debug\net10.0\AutoMapper.dll
-C:\Users\ibrah\source\repos\Library\Library.WebAPI\obj\Debug\net10.0\Library.WebAPI.MvcApplicationPartsAssemblyInfo.cs
