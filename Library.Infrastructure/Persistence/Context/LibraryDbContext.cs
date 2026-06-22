@@ -15,6 +15,7 @@ namespace Library.Infrastructure.Persistence.Context
         public DbSet<Member> Members { get; set; }
 
         public DbSet<BorrowRecord> BorrowRecords { get; set; }
+        public DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

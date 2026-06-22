@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "siOfYMufJcg=",
+  "dgSpecHash": "qudWLPF2bH0=",
   "success": true,
   "projectFilePath": "C:\\Users\\ibrah\\source\\repos\\Library\\Library.Application.Tests\\Library.Application.Tests.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ibrah\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\automapper\\16.1.1\\automapper.16.1.1.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512",
     "C:\\Users\\ibrah\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\ibrah\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\ibrah\\.nuget\\packages\\fluentassertions\\8.10.0\\fluentassertions.8.10.0.nupkg.sha512",
@@ -48,18 +49,5 @@
     "C:\\Users\\ibrah\\.nuget\\packages\\xunit.extensibility.execution\\2.9.3\\xunit.extensibility.execution.2.9.3.nupkg.sha512",
     "C:\\Users\\ibrah\\.nuget\\packages\\xunit.runner.visualstudio\\3.1.4\\xunit.runner.visualstudio.3.1.4.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "message": "Package 'AutoMapper' 13.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
-      "projectPath": "C:\\Users\\ibrah\\source\\repos\\Library\\Library.Application.Tests\\Library.Application.Tests.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\ibrah\\source\\repos\\Library\\Library.Application.Tests\\Library.Application.Tests.csproj",
-      "libraryId": "AutoMapper",
-      "targetGraphs": [
-        "net10.0"
-      ]
-    }
-  ]
+  "logs": []
 }

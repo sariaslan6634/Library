@@ -7,6 +7,7 @@ using Library.Application.Features.Books.Queries;
 using Library.Domain.Entities;
 using Library.WebAPI.Models;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
@@ -40,12 +41,14 @@ namespace Library.WebAPI.Controllers
                 Data = result
             });
         }
+        [Authorize]
         [HttpDelete("{bookId}")]
         public async Task<IActionResult> Delete(Guid bookId, CancellationToken cancellationToken)
         {
             await _mediator.Send(new DeleteBookCommand(bookId), cancellationToken);
             return NoContent();
         }
+        [Authorize]
         [HttpPost]
         public async Task<IActionResult> Create(CreateBookCommand command,CancellationToken cancellationToken)
         {

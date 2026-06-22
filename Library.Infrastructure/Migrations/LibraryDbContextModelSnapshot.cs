@@ -146,6 +146,57 @@ namespace Library.Infrastructure.Migrations
                         });
                 });
 
+            modelBuilder.Entity("Library.Domain.Entities.User", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<string>("FirstName")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.Property<string>("LastName")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.Property<string>("PasswordHash")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("Email")
+                        .IsUnique();
+
+                    b.ToTable("Users");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("a1b2c3d4-0000-0000-0000-000000000001"),
+                            Email = "admin@gmail.com",
+                            FirstName = "Admin",
+                            LastName = "User",
+                            PasswordHash = ""
+                        },
+                        new
+                        {
+                            Id = new Guid("a1b2c3d4-0000-0000-0000-000000000002"),
+                            Email = "ibrahim@gmail.com",
+                            FirstName = "Ibrahim",
+                            LastName = "SARIASLAN",
+                            PasswordHash = ""
+                        });
+                });
+
             modelBuilder.Entity("Library.Domain.Entities.BorrowRecord", b =>
                 {
                     b.HasOne("Library.Domain.Entities.Book", "Book")

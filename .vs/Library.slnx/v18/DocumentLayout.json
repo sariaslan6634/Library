@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ibrah\\source\\repos\\Library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6A2B330-EE04-F73C-697D-3BF1FA197D0B}|Library.WebAPI\\Library.WebAPI.csproj|c:\\users\\ibrah\\source\\repos\\library\\library.webapi\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6A2B330-EE04-F73C-697D-3BF1FA197D0B}|Library.WebAPI\\Library.WebAPI.csproj|solutionrelative:library.webapi\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6A2B330-EE04-F73C-697D-3BF1FA197D0B}|Library.WebAPI\\Library.WebAPI.csproj|c:\\users\\ibrah\\source\\repos\\library\\library.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A2B330-EE04-F73C-697D-3BF1FA197D0B}|Library.WebAPI\\Library.WebAPI.csproj|solutionrelative:library.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A2B330-EE04-F73C-697D-3BF1FA197D0B}|Library.WebAPI\\Library.WebAPI.csproj|c:\\users\\ibrah\\source\\repos\\library\\library.webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A2B330-EE04-F73C-697D-3BF1FA197D0B}|Library.WebAPI\\Library.WebAPI.csproj|solutionrelative:library.webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A2B330-EE04-F73C-697D-3BF1FA197D0B}|Library.WebAPI\\Library.WebAPI.csproj|c:\\users\\ibrah\\source\\repos\\library\\library.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A2B330-EE04-F73C-697D-3BF1FA197D0B}|Library.WebAPI\\Library.WebAPI.csproj|solutionrelative:library.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\Library\\Library.WebAPI\\Middlewares\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "Library.WebAPI\\Middlewares\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\Library\\Library.WebAPI\\Middlewares\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "Library.WebAPI\\Middlewares\\ExceptionMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\Library\\Library.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Library.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\Library\\Library.WebAPI\\Program.cs",
+              "RelativeToolTip": "Library.WebAPI\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwE8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T14:26:58.369Z",
+              "WhenOpened": "2026-06-22T22:58:14.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\Library\\Library.WebAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Library.WebAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\Library\\Library.WebAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Library.WebAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowCsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T22:56:12.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\Library\\Library.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Library.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\Library\\Library.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Library.WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T22:55:32.459Z",
               "EditorCaption": ""
             }
           ]

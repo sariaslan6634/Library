@@ -17,7 +17,7 @@ namespace Library.Application
                 cfg.RegisterServicesFromAssembly(typeof(DependencyInjection).Assembly);
                 cfg.AddBehavior(typeof(IPipelineBehavior<,>), typeof(ValidationBehavior<,>));
             }); 
-            services.AddAutoMapper(typeof(DependencyInjection).Assembly);
+            services.AddAutoMapper(cfg => cfg.AddMaps(typeof(DependencyInjection).Assembly));
             services.AddValidatorsFromAssembly(typeof(DependencyInjection).Assembly);
             return services;
         }

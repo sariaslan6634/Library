@@ -11,6 +11,7 @@ namespace Library.Application.Common.Interfaces
         DbSet<Book> Books { get; }
         DbSet<Member> Members { get; }
         DbSet<BorrowRecord> BorrowRecords { get; }
+        DbSet<User> Users { get; }
 
         Task<int> SaveChangesAsync(CancellationToken cancellationToken);
 
